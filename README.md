@@ -1,4 +1,6 @@
 # react-native-snap-carousel
+THIS IS NOT THE ORIGINAL VERSION, THE ORIGINAL AUTHOR IS ARCHRISS, CHECK HIS PROFILE
+THIS IS JUST A FIX FOR THE LATEST REACT NATIVE VERSION
 Simple swiper component for React Native with **previews** and **snapping effect**. Compatible with Android & iOS.
 Pull requests are very welcome!
 
